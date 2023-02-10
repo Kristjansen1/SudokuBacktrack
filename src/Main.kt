@@ -22,6 +22,7 @@ fun main() {
 }
 
 fun solveBoard() {
+    //lol
     var xAxis = 0
     var yAxis = 0
     if (isBoardFull()) {
